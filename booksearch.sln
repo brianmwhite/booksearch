@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.0.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "booksearch.api", "src\booksearch.api\booksearch.api.csproj", "{50668C70-730F-4564-A17E-6DD759219C86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "booksearch.common", "src\booksearch.common\booksearch.common.csproj", "{BDF9DDA8-7621-4FE4-8A50-A5514A55EFC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bs", "src\bs\bs.csproj", "{C5F2F25A-B7EE-4017-B820-8D5A66B61B2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "booksearch.common.tests", "test\booksearch.common.tests\booksearch.common.tests.csproj", "{378EFA86-80B2-47EF-A5F0-541108417B67}"
+EndProject
+Global
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50668C70-730F-4564-A17E-6DD759219C86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50668C70-730F-4564-A17E-6DD759219C86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50668C70-730F-4564-A17E-6DD759219C86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50668C70-730F-4564-A17E-6DD759219C86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDF9DDA8-7621-4FE4-8A50-A5514A55EFC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDF9DDA8-7621-4FE4-8A50-A5514A55EFC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDF9DDA8-7621-4FE4-8A50-A5514A55EFC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDF9DDA8-7621-4FE4-8A50-A5514A55EFC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5F2F25A-B7EE-4017-B820-8D5A66B61B2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5F2F25A-B7EE-4017-B820-8D5A66B61B2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5F2F25A-B7EE-4017-B820-8D5A66B61B2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5F2F25A-B7EE-4017-B820-8D5A66B61B2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{378EFA86-80B2-47EF-A5F0-541108417B67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{378EFA86-80B2-47EF-A5F0-541108417B67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{378EFA86-80B2-47EF-A5F0-541108417B67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{378EFA86-80B2-47EF-A5F0-541108417B67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+EndGlobal
